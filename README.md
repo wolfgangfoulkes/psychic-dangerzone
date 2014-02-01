@@ -1,1 +1,1 @@
-This directory has two files
+This directory has one file
