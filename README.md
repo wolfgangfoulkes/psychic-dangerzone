@@ -1,1 +1,1 @@
-This is a first attempt.
+This is the Master directory with nothing in it.
