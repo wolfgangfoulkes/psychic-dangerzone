@@ -1,1 +1,3 @@
-This is the Master directory with one file in it, or is it?
+
+This is the Master directory with one file in it.
+Its log contains the history of several other branches.
