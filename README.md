@@ -1,1 +1,1 @@
-This is a first attempt.
+This directory is empty
